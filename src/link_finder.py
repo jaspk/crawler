@@ -24,5 +24,8 @@ class LinkFinder(HTMLParser):
     def error(self, message):
         pass
 
+    gelsmosm
+    as
+
 
 
