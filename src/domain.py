@@ -15,4 +15,4 @@ def get_sub_domain_name(url):
     except:
         return ''
 
-print(get_domain_name('https://www.newboston.com'))
+# print(get_sub_domain_name('https://help.ubuntu.com/16.04/ubuntu-help/index.html'))
